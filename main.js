@@ -1,5 +1,5 @@
 const texts = [
-  "IGNORANCE",
+  "   IGNORANCE   ",
   "    DEAF",
   "     HUMBLE",
   "              FALSE   ",
