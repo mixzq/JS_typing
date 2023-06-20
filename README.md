@@ -1,2 +1,2 @@
 # JS_typing
-# Using JS to make a page with typing  effect
+# Using JS to make a typing  effect
